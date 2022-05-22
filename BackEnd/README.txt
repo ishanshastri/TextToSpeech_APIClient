@@ -1,0 +1,1 @@
+Contains all back-end functionality to access API and communicate with it. Includes helper classes (Voice, Locale, AudioFileType). 
